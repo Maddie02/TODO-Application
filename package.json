@@ -1,0 +1,24 @@
+{
+  "name": "todo-application",
+  "version": "1.0.0",
+  "description": "TODO Application build with the MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maddie02/TODO-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maddie02/TODO-Application/issues"
+  },
+  "homepage": "https://github.com/Maddie02/TODO-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  }
+}
